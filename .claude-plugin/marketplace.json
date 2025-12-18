@@ -1,0 +1,18 @@
+{
+  "name": "bokeum-kim-plugins",
+  "owner": {
+    "name": "Bokeum Kim",
+    "email": "bokeum.kim@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "python-type-hint-reviewer",
+      "source": "./",
+      "strict": false,
+      "description": "Reviews code diffs for Python type hinting and structural principle compliance.",
+      "skills": [
+        "./skills/python-type-hint-reviewer"
+      ]
+    }
+  ]
+}
